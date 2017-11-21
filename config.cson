@@ -1,0 +1,13 @@
+"*":
+  core:
+    autoHideMenuBar: true
+    telemetryConsent: "no"
+  "exception-reporting":
+    userId: "99616e56-ba8a-49d0-be99-450350002c66"
+  "markdown-image-paste":
+    subfolder: "md-images"
+    use_subfolder: true
+  "markdown-preview":
+    breakOnSingleNewline: true
+  welcome:
+    showOnStartup: false
